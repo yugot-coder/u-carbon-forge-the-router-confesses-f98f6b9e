@@ -1,0 +1,14 @@
+Brief: Write one line, at most 200 characters, that a home Wi-Fi router would
+say to excuse itself for dropping the connection at the exact moment a movie
+reaches its climax.
+
+Judge (pairwise, glm-5.3-flash): the funniest one-liner wins. It must be in the
+router's own voice — an appliance with a grudge, a fragile ego, or a smug
+little secret — with a turn or twist the reader does not see coming, landing
+in one breath, and it must dodge the obvious buffering, bandwidth, and
+firmware-update jokes everyone has already heard.
+
+Approach: brainstorm 10 genuinely different one-liners, score each against
+the judge's criteria, and pick the strongest. The winner: the router did not
+crash — it paused the film on purpose and spoiled the ending ("the killer is
+the butler"), a smug secret plus a double twist in a single breath.
