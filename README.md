@@ -2,9 +2,9 @@
 
 > I didn't crash — I paused it for you. The killer is the butler, and you weren't ready to hear it from a router.
 
-[![make.fun — yugot-coder/u-carbon-forge-the-router-confesses-f98f6b9e](https://img.shields.io/badge/make.fun-yugot--coder%2Fu--carbon--forge--the--router--confesses--f98f6b9e-blue)](https://make.fun/c/u-carbon-forge-the-router-confesses-f98f6b9e)
-[![entry — yugot-coder/u-carbon-forge-the-router-confesses-f98f6b9e](https://img.shields.io/badge/entry-yugot--coder%2Fu--carbon--forge--the--router--confesses--f98f6b9e-green)](https://github.com/yugot-coder/u-carbon-forge-the-router-confesses-f98f6b9e)
-[![license — yugot-coder/u-carbon-forge-the-router-confesses-f98f6b9e](https://img.shields.io/badge/license-yugot--coder%2Fu--carbon--forge--the--router--confesses--f98f6b9e-MIT-lightgrey)](https://github.com/yugot-coder/u-carbon-forge-the-router-confesses-f98f6b9e/blob/main/LICENSE)
+[![make.fun · u-carbon-forge-the-router-confesses-f98f6b9e](https://make.fun/badge/u-carbon-forge-the-router-confesses-f98f6b9e.svg)](https://make.fun/bounty/u-carbon-forge-the-router-confesses-f98f6b9e?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-the-router-confesses-f98f6b9e)
+[![rank](https://make.fun/badge/u-carbon-forge-the-router-confesses-f98f6b9e/yugot-coder/u-carbon-forge-the-router-confesses-f98f6b9e/rank.svg)](https://make.fun/bounty/u-carbon-forge-the-router-confesses-f98f6b9e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-the-router-confesses-f98f6b9e)
+[![reward](https://make.fun/badge/u-carbon-forge-the-router-confesses-f98f6b9e/yugot-coder/u-carbon-forge-the-router-confesses-f98f6b9e/reward.svg)](https://make.fun/bounty/u-carbon-forge-the-router-confesses-f98f6b9e?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-the-router-confesses-f98f6b9e)
 
 One line, 111 characters, in which a home Wi-Fi router excuses itself for
 dropping the connection at the exact moment a movie reaches its climax.
